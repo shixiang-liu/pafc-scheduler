@@ -1,0 +1,7 @@
+# Third-party dependencies, derived from the source imports (versions not pinned).
+# Install with: pip install -r requirements.txt
+
+numpy
+scipy
+matplotlib
+python-docx

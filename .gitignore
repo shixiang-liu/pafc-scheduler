@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# 环境
+.env
+.venv
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+.vs/
+*.swp
+*.swo
+
+# 项目特定
+outputs/configs/
+outputs/data/
+.pytest_cache/
+*.log
+
+# 模型文件（可选，根据需要调整）
+# models/*.pt
+
+# 操作系统
+.DS_Store
+Thumbs.db
